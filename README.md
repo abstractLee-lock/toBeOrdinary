@@ -1,1 +1,1 @@
-java设计模式
+java设计模式"#toBeOrdinary"  
